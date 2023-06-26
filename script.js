@@ -9,7 +9,7 @@
 
 let board;
 let boardWidth=360;
-let boardHeight=616;
+let boardHeight=640;
 let context;
 
 let birdWidth=34;
